@@ -1,0 +1,13 @@
+2025-06-08 15:48:27,826 - __main__ - INFO - Starting scraper scheduler
+2025-06-08 15:48:27,827 - __main__ - INFO - Starting scheduled scraping run
+2025-06-08 15:48:37,288 - httpx - INFO - HTTP Request: GET https://mdkxdzgladinsxebtsjq.supabase.co/rest/v1/companies?select=%2A "HTTP/2 200 OK"
+2025-06-08 15:48:37,305 - __main__ - WARNING - No companies found in database
+2025-06-08 16:03:19,352 - __main__ - INFO - Starting scraper scheduler
+2025-06-08 16:03:19,353 - __main__ - INFO - Starting scheduled scraping run
+2025-06-08 16:03:22,332 - httpx - INFO - HTTP Request: GET https://mdkxdzgladinsxebtsjq.supabase.co/rest/v1/companies?select=%2A "HTTP/2 200 OK"
+2025-06-08 16:03:22,342 - __main__ - INFO - Running Twitter scraper
+2025-06-08 16:03:24,259 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 902 seconds.
+2025-06-08 16:18:27,457 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 902 seconds.
+2025-06-08 16:33:30,645 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 902 seconds.
+2025-06-08 16:48:35,813 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 902 seconds.
+2025-06-08 17:03:39,043 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 901 seconds.
